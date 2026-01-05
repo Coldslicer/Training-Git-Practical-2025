@@ -9,8 +9,7 @@ Request timeout for icmp_seq 3
 
 --- 192.168.1.187 ping statistics ---
 5 packets transmitted, 0 packets received, 100.0% packet loss
-<<<<<<< HEAD
 
-=======
 I have fixed the cheese issues in ReversibleEncryptor.java, and I used a secret password to decrypt encrypted.txt.
->>>>>>> 08789cf (Commited log changes)
+Vital parts of the code were replaced with cheese.
+I reverted the commit that caused problems.
