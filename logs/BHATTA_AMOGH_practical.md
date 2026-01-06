@@ -1,4 +1,5 @@
 I have opened the repo and started my log!
+<<<<<<< HEAD
 Vital parts of the code were replaced with the word cheese
 I have reverted the commit that replaced code with cheese
 PING 192.168.1.187 (192.168.1.187): 56 data bytes
@@ -22,3 +23,7 @@ Request timeout for icmp_seq 3
 --- 192.168.1.187 ping statistics ---
 5 packets transmitted, 0 packets received, 100.0% packet loss
 I decrypted the file.
+=======
+Vital parts of the code were replaced by the word cheese
+I have reverted the commit that caused the error.
+>>>>>>> a553d86 (Found the part of the code that was causing the issues.)
