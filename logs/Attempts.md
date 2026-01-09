@@ -9,3 +9,4 @@ Adarsh Sudheer proctored by Sharvil Phadke on December 8th, 2025
 Kovid Kaushik proctored by Sharvil Phadke on December 8th, 2025
 Michael Cutsail proctored by Sharvil Phadke on December 18th, 2025
 Seojin proctored by Qinzaho Phadke on January 5th, 2025
+Shreeansh Bharadwaj proctored by Kovid Kaushik on January 8th, 2025
